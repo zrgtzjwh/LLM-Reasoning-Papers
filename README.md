@@ -357,6 +357,10 @@
 1. **Boosting LLM Reasoning: Push the Limits of Few-shot Learning with Reinforced In-Context Pruning** `Preprint`
 
     *Xijie Huang, Li Lyna Zhang, Kwang-Ting Cheng, Mao Yang.* [[Paper](https://arxiv.org/abs/2312.08901)], 2023.12
+   
+1. **Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives** `Preprint`
+
+    *Wenqi Zhang, Yongliang Shen, Linjuan Wu, Qiuying Peng, Jun Wang, Yueting Zhuang, Weiming Lu.* [[Paper](http://arxiv.org/abs/2401.02009)], 2024.01
 
 ### <h3 id="lm">Scaling Smaller Language Models to Reason<h3/>
 
